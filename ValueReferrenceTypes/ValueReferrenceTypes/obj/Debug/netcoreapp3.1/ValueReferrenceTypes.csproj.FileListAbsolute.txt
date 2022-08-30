@@ -1,0 +1,14 @@
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.exe
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.deps.json
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.runtimeconfig.json
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.runtimeconfig.dev.json
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.dll
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\bin\Debug\netcoreapp3.1\ValueReferrenceTypes.pdb
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.csproj.AssemblyReference.cache
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.AssemblyInfoInputs.cache
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.AssemblyInfo.cs
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.dll
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.pdb
+C:\Users\ULVI\Desktop\P326\ValueReferrenceTypes\ValueReferrenceTypes\obj\Debug\netcoreapp3.1\ValueReferrenceTypes.genruntimeconfig.cache

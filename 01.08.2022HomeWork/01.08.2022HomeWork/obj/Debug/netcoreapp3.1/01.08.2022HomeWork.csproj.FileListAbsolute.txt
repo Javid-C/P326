@@ -1,0 +1,14 @@
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.exe
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.deps.json
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.runtimeconfig.json
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.runtimeconfig.dev.json
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.dll
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\bin\Debug\netcoreapp3.1\01.08.2022HomeWork.pdb
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.csproj.AssemblyReference.cache
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.AssemblyInfoInputs.cache
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.AssemblyInfo.cs
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.dll
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.pdb
+C:\Users\ULVI\source\repos\01.08.2022HomeWork\01.08.2022HomeWork\obj\Debug\netcoreapp3.1\01.08.2022HomeWork.genruntimeconfig.cache

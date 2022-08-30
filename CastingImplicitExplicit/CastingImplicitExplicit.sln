@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingImplicitExplicit", "CastingImplicitExplicit\CastingImplicitExplicit.csproj", "{7BED132C-9766-4785-891D-28E2E481E1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BED132C-9766-4785-891D-28E2E481E1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BED132C-9766-4785-891D-28E2E481E1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BED132C-9766-4785-891D-28E2E481E1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BED132C-9766-4785-891D-28E2E481E1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2B6D1A-4BF4-43CE-B07E-EDC5167673D9}
+	EndGlobalSection
+EndGlobal

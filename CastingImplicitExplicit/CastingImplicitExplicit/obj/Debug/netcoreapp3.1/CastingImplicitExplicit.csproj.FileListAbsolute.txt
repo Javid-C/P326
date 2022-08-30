@@ -1,0 +1,14 @@
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.exe
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.deps.json
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.runtimeconfig.json
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.runtimeconfig.dev.json
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.dll
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\bin\Debug\netcoreapp3.1\CastingImplicitExplicit.pdb
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.csproj.AssemblyReference.cache
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.AssemblyInfo.cs
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.dll
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.pdb
+C:\Users\ULVI\Desktop\P326\CastingImplicitExplicit\CastingImplicitExplicit\obj\Debug\netcoreapp3.1\CastingImplicitExplicit.genruntimeconfig.cache

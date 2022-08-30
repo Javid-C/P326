@@ -1,0 +1,14 @@
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.exe
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.deps.json
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.runtimeconfig.json
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.runtimeconfig.dev.json
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.dll
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\bin\Debug\netcoreapp3.1\Asyncronous.pdb
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.dll
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.pdb
+C:\Users\Ülvi\Desktop\P326\Asyncronous\Asyncronous\obj\Debug\netcoreapp3.1\Asyncronous.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.exe
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.deps.json
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.runtimeconfig.json
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.runtimeconfig.dev.json
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.dll
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\bin\Debug\netcoreapp3.1\HotelTask.pdb
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.csproj.AssemblyReference.cache
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.AssemblyInfoInputs.cache
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.AssemblyInfo.cs
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.dll
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.pdb
+C:\Users\ULVI\source\repos\HotelTask\HotelTask\obj\Debug\netcoreapp3.1\HotelTask.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.exe
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.deps.json
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.runtimeconfig.json
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.runtimeconfig.dev.json
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.dll
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\bin\Debug\netcoreapp3.1\P326ForHomeWork.pdb
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.csproj.AssemblyReference.cache
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.AssemblyInfoInputs.cache
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.AssemblyInfo.cs
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.dll
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.pdb
+C:\Users\ULVI\source\repos\P326ForHomeWork\P326ForHomeWork\obj\Debug\netcoreapp3.1\P326ForHomeWork.genruntimeconfig.cache

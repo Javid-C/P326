@@ -1,0 +1,14 @@
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.exe
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.deps.json
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.runtimeconfig.json
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.runtimeconfig.dev.json
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.dll
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\bin\Debug\netcoreapp3.1\HomeWorks08.08.2022.pdb
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.csproj.AssemblyReference.cache
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.AssemblyInfoInputs.cache
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.AssemblyInfo.cs
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.csproj.CoreCompileInputs.cache
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.dll
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.pdb
+C:\Users\ULVI\Desktop\P326\HomeWorks08.08.2022\HomeWorks08.08.2022\obj\Debug\netcoreapp3.1\HomeWorks08.08.2022.genruntimeconfig.cache
