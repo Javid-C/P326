@@ -1,0 +1,16 @@
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.exe
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.deps.json
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.runtimeconfig.json
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.runtimeconfig.dev.json
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.dll
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\FileFileStream.pdb
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.dll
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.pdb
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ülvi\Desktop\P326-master\FileFileStream\FileFileStream\obj\Debug\netcoreapp3.1\FileFileStream.csproj.CopyComplete

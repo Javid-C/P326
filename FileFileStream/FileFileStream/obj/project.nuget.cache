@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5F817DMh+4Sc7PKfy28qqG2EJlScLX1Pk1bDzO/abp4kpPI/QgK5DM+ppifg2s+cvFslXcvjzl2xmFJ5yA4Q2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ülvi\\Desktop\\P326-master\\FileFileStream\\FileFileStream\\FileFileStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ülvi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
